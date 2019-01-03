@@ -2,3 +2,8 @@ Packing list
 ------------
 - shoes
 - clothes
+- toiletries
+
+Picnic
+------------
+- food
