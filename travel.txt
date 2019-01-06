@@ -3,6 +3,7 @@ Packing list
 - shoes
 - clothes
 - toiletries
+- camera
 
 Picnic
 ------------
